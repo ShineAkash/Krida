@@ -6,7 +6,7 @@ Krida is a fictional gaming/gateway brand site — but the real product here is 
 
 ## Live Demo
 
-**[krida-7hwfdnhq9-iakash1.vercel.app](https://krida-7hwfdnhq9-iakash1.vercel.app)**
+**[krida-three.vercel.app](https://krida-three.vercel.app)**
 
 ## What's Inside
 
